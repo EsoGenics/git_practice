@@ -5,5 +5,5 @@ This is a GitHub practice repository MD file. The is following the **Markdown** 
  * Headers
  * Emphasis
  * List
-   * Unordered
-   * Ordered
+   1. Unordered
+   2. Ordered
