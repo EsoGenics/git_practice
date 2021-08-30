@@ -7,3 +7,7 @@ This is a GitHub practice repository MD file. The is following the **Markdown** 
  * List
    1. Unordered
    2. Ordered
+ * Images
+ * Links
+ * Blockquotes
+ * Inline code
